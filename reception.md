@@ -6,4 +6,4 @@ layout: page
 
 ## Reception
 
-![](/assets/wallpaper1.jpg))
+![](/assets/wallpaper1.jpg)
