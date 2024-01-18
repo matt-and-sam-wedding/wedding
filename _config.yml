@@ -1,7 +1,7 @@
 title: "Matt and Sam's Wedding"
 author: "Matt and Sam"
 description: "Matt and Sam's Wedding"
-permalink: /:title/
+permalink: /posts/:title
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
