@@ -4,9 +4,9 @@ permalink: "/reception/"
 layout: page
 ---
 
-## Location
+## Location - Pera Soho
 
-Pera Soho: corner of, 54 Thompson Street, Broome St, New York, NY 10012
+Pera Soho Address: corner of, 54 Thompson Street, Broome St, New York, NY 10012
 
 ![](/assets/location_map.png)
 
