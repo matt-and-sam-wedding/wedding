@@ -10,18 +10,15 @@ Pera Soho: corner of, 54 Thompson Street, Broome St, New York, NY 10012
 
 ![](/assets/location_map.png)
 
-## Features
+## Date and Time
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+Saturday, September 28th, 2024 from 1:00 PM until 5:00 PM EST
+
+## Food
+
+- Floating Mediterranean Hors d'oeuvres
+- Food Stations
+- Guests will be provided with a Pizza to take away at the end of the party
 
 ## Based on
 
