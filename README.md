@@ -1,12 +1,12 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Reception"
+permalink: "/reception/"
 layout: page
 ---
 
-## Installation
+## Location
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Pera Soho: corner of, 54 Thompson Street, Broome St, New York, NY 10012
 
 ## Features
 
