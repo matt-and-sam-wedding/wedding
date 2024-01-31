@@ -8,6 +8,8 @@ layout: page
 
 Pera Soho: corner of, 54 Thompson Street, Broome St, New York, NY 10012
 
+![](/assets/location_map.png)
+
 ## Features
 
  - supports dark mode on macOS Mojave
